@@ -15,3 +15,5 @@ while ($mot=<STDIN>){
 	n=$n+1;
 }
 
+
+print "Ce document comporte ",$n,"mots en -ment."
